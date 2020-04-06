@@ -1,0 +1,22 @@
+pyUSID.io.translator
+====================
+
+.. automodule:: pyUSID.io.translator
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Translator
+   
+   
+
+   
+   
+   
